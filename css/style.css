@@ -9689,3 +9689,21 @@ textarea.form-control {
 .logo{
   width: 250px;
 }
+
+.colorCeleste {
+  background-color: #00C2CB !important; 
+}
+
+.colorNaranja{
+  background-color: #156384 !important;
+
+}
+.colorAzul{
+  background-color: #FFA216;
+}
+
+.colorClaro{
+  background-color:#15F5FF ;
+}
+
+
